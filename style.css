@@ -1,0 +1,33 @@
+#head1{
+    text-align: center;
+    background-color: brown;
+    font-weight: bold;
+}
+#head2{
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: bolder;
+    box-shadow: inset;
+    background-color: rgb(110, 27, 27);
+    font-size: xx-large;
+}
+#para1{
+    box-sizing: 2px solid black;
+    background-color: rgb(236, 100, 100);
+    text-align: center;
+    text-justify: auto;
+    margin: 50px;
+    padding: 200px;
+    border: 4px;
+    font-size: xx-large;
+}
+#para2{
+    box-sizing: 2px solid black;
+    background-color: rgb(110, 6, 6);
+    text-align: center;
+    text-justify: auto;
+    margin: 30px;
+    padding: 50px;
+    border: 4px;
+    font-size: small;
+}
